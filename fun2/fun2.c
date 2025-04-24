@@ -4,7 +4,7 @@ int fun2();
 
 int main(void) {
 	printf("메인 시작\n");//1
-	fun1();//2  
+	fun1();//2  아아아이ㅏ
 	printf("메인 끝\n");//10   
 	return 0;//11
 }
