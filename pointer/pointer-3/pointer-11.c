@@ -1,5 +1,9 @@
 #include<stdio.h>
-int main() {
+void call_value(int icopy);
+void call_refer(int* ip);
+
+int main() 
+{
 
 	int i = 777;
 	call_value(i); //함수호출
